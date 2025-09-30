@@ -28,7 +28,7 @@ This project demonstrates end-to-end machine learning model deployment using Fas
 ## 📁 Project Structure
 
 ```
-Iris_FastAPI_Project/
+iris
 │
 ├── main.py                 # FastAPI application
 ├── iris_training.ipynb     # Model training notebook
